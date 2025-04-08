@@ -7,6 +7,9 @@
     "videourl":"",
     "logo":"https://i.ibb.co/rxcD0gP/3058.jpg",
     "channel" : "",
+    "session_name":"session",
+    "port":"8000",
+    "system":"nonbutton",
     "repoo" :""
     
 }
